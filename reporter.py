@@ -37,7 +37,7 @@ async def main():
     # Start the client
     await client.start()
 
-    for channel in channels_usernames:
+    for channel_username in channels_usernames:
         try:
             # Get the entity (channel) by username
             entity = await client.get_entity(channel_username)
