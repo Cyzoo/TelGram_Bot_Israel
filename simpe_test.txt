@@ -1,0 +1,6 @@
+This is a simple test file.
+The yara rule should match because it contains the string:
+
+HelloWorld
+
+Thank you.

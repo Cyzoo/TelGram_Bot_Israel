@@ -1,0 +1,3 @@
+This is a test file.
+HelloWorld
+This file should be matched by the YARA rule.
